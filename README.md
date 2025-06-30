@@ -27,13 +27,14 @@ This repository contains the experiment data and code used for stimulus creation
 
 ### stimuli creation includes:
 
-+ get_unrelated_words.py -> code to get proposals for the unrelated words
 + taxonomy_func.py -> functions to work with the WordNet taxonomy, i.e., finding targets and distractors
 + create_complete_stimuli_list_with_ratings.py -> creates a list of ratings (control variables) for every word in the list of stimuli
 + create_superordinate_list_with_ratings.py -> creates a list of ratings (controle variables) for the superordinates
 + plot_ratings_superordinates.py -> plots concreteness ratings of the superordinates
 + create_general_word_list_ratings.py -> creates a general word lists with ratings of the members from the categories used in Banks and Connell (2022)
 + ratings_func.py -> functions of for getting control variables of words manually (used in the early phase of stimuli creation)
++ get_unrelated_words.py -> code to get proposals for the unrelated words
++ general_word_list_without_category.csv -> used in get_unrelated_words.py
 
 ### test_data_pilot includes:
 

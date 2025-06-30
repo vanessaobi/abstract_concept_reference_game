@@ -1,5 +1,5 @@
 # abstract_concept_reference_game
-This repository contains the experiment data and code used for stimulus creation (and data analysis) in my bachelor's thesis. The thesis focuses on a psycholinguistic experiment where participants engage in a two-player abstract concept reference game. In this game, they communicate about abstract and concrete categories. The study aims to explore the underlying mechanisms and the concreteness effect in category production and comprehesion within a socially interactive game-like setting.
+This repository contains the experiment data and code used for stimulus creation and data analysis in my bachelor's thesis. The thesis focuses on a psycholinguistic experiment where participants engage in a two-player abstract-concept reference game. In this game, they communicate about abstract and concrete categories. The study aims to explore the underlying mechanisms and the concreteness effect in category production and comprehension within an interactive game-like setting.
 
 ## Content of this repository:
 

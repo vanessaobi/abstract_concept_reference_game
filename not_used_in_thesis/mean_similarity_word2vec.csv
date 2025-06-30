@@ -1,0 +1,21 @@
+Target concept,Domain,Target 1,Target 2,Target 3,Distractor 1,Distractor 2,Unrelated 1,Unrelated 2,Unrelated 3,Unrelated 4,Mean_Distractor_Similarity
+Communication,Abstract,language,conversation,debate,breathing,playing,avocado,rider,zone,sponsor,0.09482794
+Craft,Abstract,pottery,painting,carpentry,imagination,literacy,omelet,sister,dialect,decade,0.14585975
+Emotion,Abstract,anger,fear,joy,intuition,pain,whale,lamp,seminar,algorithm,0.26650238
+Profession,Abstract,teacher,lawyer,doctor,traveler,neighbor,shampoo,salad,century,paradox,0.22624181
+Quantity,Abstract,volume,pinch,heap,size,container,raisin,homework,suspect,gaze,0.14057189
+Relationship,Abstract,friendship,acquaintance,partnership,implication,ownership,scissors,dictionary,calculus,teatime,0.102863155
+Religion,Abstract,buddhism,islam,christianity,philosophy,pacifism,snowball,trumpet,hometown,rhyme,0.30469957
+Shape,Abstract,circle,triangle,cube,distance,smoothness,island,aunt,haven,playback,0.16038248
+Sport,Abstract,hockey,judo,golf,bathing,farming,drawers,squid,dialogue,weekday,0.12184602
+Time,Abstract,minute,day,hour,tide,eclipse,oil,cinema,feedback,royalty,0.10505191
+Animal,Concrete,elephant,penguin,butterfly,mushroom,lavender,campfire,certificate,donation,monarchy,0.21940856
+Building,Concrete,cottage,church,hospital,bridge,platform,swimming,biscuit,midnight,intention,0.095705725
+Clothing,Concrete,blouse,dress,sweater,blanket,necklace,rainfall,nectar,schedule,miracle,0.38134935
+Drink,Concrete,smoothie,coffee,milk,pasta,vinegar,giraffe,ceremony,justice,review,0.3100024
+Food,Concrete,sandwich,yogurt,chocolate,water,vitamin,statue,panda,accuracy,tale,0.22172827
+Fruit,Concrete,apple,grape,banana,cheese,bread,penny,ticket,institute,detail,0.32844645
+Furniture,Concrete,wardrobe,armchair,bookcase,curtain,carpet,pastry,song,mystery,summary,0.23957674
+Plant,Concrete,cactus,sunflower,wheat,mold,jaguar,glue,postcard,privacy,bedtime,0.10175061
+Tool,Concrete,hammer,screwdriver,wrench,ventilator,dollhouse,parade,cocktail,idealism,conclusion,0.17733723
+Vehicle,Concrete,tractor,bicycle,helicopter,delivery,teleportation,knuckle,bread,reality,rumor,0.0986078

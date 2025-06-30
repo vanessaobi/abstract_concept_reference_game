@@ -1,0 +1,101 @@
+Group_Id,Trial_Nr,Trial_Id,condition,category,success,Input,clue_type,rt_speaker,rt_listener,int_superordinate
+436twxv,1,20,Concrete,Vehicle,TRUE,MEANS OF TRANSPORTATION,Superordinate,15341,15063,TRUE
+436twxv,2,9,Abstract,Sport,FALSE,GAMES,Other Superordinate,6115,16732,FALSE
+436twxv,3,19,Concrete,Tool,TRUE,TOOLS,Superordinate,4726,6728,TRUE
+436twxv,4,2,Abstract,Craft,TRUE,JOBS,Other Superordinate,4789,13107,FALSE
+436twxv,5,6,Abstract,Relationship,FALSE,RELATION,Superordinate,16814,12324,TRUE
+436twxv,6,17,Concrete,Furniture,FALSE,PROTECTIVE TOOLS,Modified Other Superordinate,18276,36516,FALSE
+436twxv,7,3,Abstract,Emotion,TRUE,MOOD,Other Superordinate,3438,11419,FALSE
+436twxv,8,4,Abstract,Profession,TRUE,PROFESSION,Superordinate,3055,7864,TRUE
+436twxv,9,16,Concrete,Fruit,TRUE,FRUITS,Superordinate,2922,7654,TRUE
+436twxv,10,7,Abstract,Religion,TRUE,RELIGION,Superordinate,4778,11989,TRUE
+436twxv,11,10,Abstract,Time,TRUE,TIME,Superordinate,4715,8175,TRUE
+436twxv,12,13,Concrete,Clothing,TRUE,ATTIRE,Superordinate,5555,13312,TRUE
+436twxv,13,5,Abstract,Quantity,FALSE,SIZE,Other Superordinate,62041,19029,FALSE
+436twxv,14,18,Concrete,Plant,FALSE,FLAVOR,Other Superordinate,8722,35431,FALSE
+436twxv,15,14,Concrete,Drink,TRUE,BREAKFAST,Context Association,9042,15207,FALSE
+436twxv,16,12,Concrete,Building,FALSE,PLACE,Other Superordinate,10977,18485,FALSE
+436twxv,17,11,Concrete,Animal,TRUE,ANIMAL,Superordinate,4800,12551,TRUE
+436twxv,18,1,Abstract,Communication,TRUE,TALK,Additional Exemplar,6341,12823,FALSE
+436twxv,19,15,Concrete,Food,TRUE,FOOD,Superordinate,100857,19395,TRUE
+436twxv,20,8,Abstract,Shape,TRUE,SHAPE,Superordinate,3569,5793,TRUE
+698s0nc,1,8,Abstract,Shape,TRUE,shape,Superordinate,NA,4040,TRUE
+698s0nc,2,18,Concrete,Plant,TRUE,plant,Superordinate,NA,3611,TRUE
+698s0nc,3,14,Concrete,Drink,TRUE,drink,Superordinate,NA,4555,TRUE
+698s0nc,4,7,Abstract,Religion,TRUE,religion,Superordinate,NA,4854,TRUE
+698s0nc,5,9,Abstract,Sport,TRUE,sport,Superordinate,NA,5567,TRUE
+698s0nc,6,13,Concrete,Clothing,TRUE,cloth,Property,NA,15151,FALSE
+698s0nc,7,3,Abstract,Emotion,TRUE,emotion,Superordinate,NA,3691,TRUE
+698s0nc,8,20,Concrete,Vehicle,TRUE,wheel,Context Association,NA,9604,FALSE
+698s0nc,9,5,Abstract,Quantity,FALSE,feel,invalid,NA,14377,FALSE
+698s0nc,10,12,Concrete,Building,TRUE,building,Superordinate,NA,5328,TRUE
+698s0nc,11,19,Concrete,Tool,TRUE,workshop tool,Modified Superordinate,NA,5755,FALSE
+698s0nc,12,6,Abstract,Relationship,FALSE,synonym for relationship,Modified Superordinate,NA,10764,FALSE
+698s0nc,13,4,Abstract,Profession,TRUE,occupation,Superordinate,NA,5027,TRUE
+698s0nc,14,17,Concrete,Furniture,TRUE,furniture,Superordinate,NA,5143,TRUE
+698s0nc,15,16,Concrete,Fruit,TRUE,fruit,Superordinate,NA,4077,TRUE
+698s0nc,16,11,Concrete,Animal,TRUE,animal,Superordinate,NA,5483,TRUE
+698s0nc,17,2,Abstract,Craft,TRUE,handwork,Superordinate,NA,9734,TRUE
+698s0nc,18,1,Abstract,Communication,TRUE,speech,Additional Exemplar,NA,6197,FALSE
+698s0nc,19,10,Abstract,Time,TRUE,time,Superordinate,NA,7219,TRUE
+698s0nc,20,15,Concrete,Food,TRUE,snack,Superordinate,NA,10529,TRUE
+djblnb7,1,1,Abstract,Communication,TRUE,speech,Additional Exemplar,NA,8638,FALSE
+djblnb7,2,2,Abstract,Craft,TRUE,handwork,Superordinate,NA,12926,TRUE
+djblnb7,3,9,Abstract,Sport,TRUE,Sport,Superordinate,NA,9906,TRUE
+djblnb7,4,12,Concrete,Building,FALSE,Building,Superordinate,NA,10019,TRUE
+djblnb7,5,11,Concrete,Animal,TRUE,Animal,Superordinate,NA,5004,TRUE
+djblnb7,6,3,Abstract,Emotion,TRUE,Emotions,Superordinate,NA,3247,TRUE
+djblnb7,7,10,Abstract,Time,TRUE,Time,Superordinate,NA,3571,TRUE
+djblnb7,8,17,Concrete,Furniture,TRUE,Furniture,Superordinate,NA,9310,TRUE
+djblnb7,9,5,Abstract,Quantity,FALSE,Music,Additional Exemplar,NA,23045,FALSE
+djblnb7,10,20,Concrete,Vehicle,FALSE,Wheels,Additional Exemplar,NA,6283,FALSE
+djblnb7,11,6,Abstract,Relationship,TRUE,Relationship,Superordinate,NA,5826,TRUE
+djblnb7,12,8,Abstract,Shape,TRUE,Shapes,Superordinate,NA,4448,TRUE
+djblnb7,13,19,Concrete,Tool,TRUE,Tools,Superordinate,NA,5411,TRUE
+djblnb7,14,4,Abstract,Profession,TRUE,Occupation,Superordinate,NA,7684,TRUE
+djblnb7,15,14,Concrete,Drink,FALSE,Food,Other Superordinate,NA,10975,FALSE
+djblnb7,16,18,Concrete,Plant,TRUE,Green plant,Modified Superordinate,NA,16405,FALSE
+djblnb7,17,7,Abstract,Religion,TRUE,Religion,Superordinate,NA,6337,TRUE
+djblnb7,18,13,Concrete,Clothing,TRUE,Clothing,Superordinate,NA,14969,TRUE
+djblnb7,19,15,Concrete,Food,TRUE,Snack,Superordinate,NA,8002,TRUE
+djblnb7,20,16,Concrete,Fruit,TRUE,Fruits,Superordinate,NA,5224,TRUE
+n444thq,1,9,Abstract,Sport,TRUE,sports,Superordinate,3353,8986,TRUE
+n444thq,2,19,Concrete,Tool,TRUE,tools,Superordinate,3283,5277,TRUE
+n444thq,3,8,Abstract,Shape,TRUE,shapes,Superordinate,2039,4394,TRUE
+n444thq,4,14,Concrete,Drink,FALSE,ingredients,Other Superordinate,2217,4846,FALSE
+n444thq,5,10,Abstract,Time,TRUE,times,Superordinate,1993,3797,TRUE
+n444thq,6,7,Abstract,Religion,TRUE,religions,Superordinate,2442,6367,TRUE
+n444thq,7,1,Abstract,Communication,TRUE,discussions,Additional Exemplar,4567,5774,FALSE
+n444thq,8,5,Abstract,Quantity,FALSE,measurements,Additional Exemplar,2044,11125,FALSE
+n444thq,9,11,Concrete,Animal,TRUE,animal bug,Set Operational,5413,9868,FALSE
+n444thq,10,20,Concrete,Vehicle,TRUE,transportation,Property,6263,8878,FALSE
+n444thq,11,12,Concrete,Building,TRUE,places,Other Superordinate,11590,6062,FALSE
+n444thq,12,13,Concrete,Clothing,TRUE,clothing,Superordinate,1960,4867,TRUE
+n444thq,13,17,Concrete,Furniture,TRUE,furniture,Superordinate,2858,8841,TRUE
+n444thq,14,16,Concrete,Fruit,TRUE,fruits,Superordinate,4286,4875,TRUE
+n444thq,15,18,Concrete,Plant,TRUE,plants,Additional Exemplar,2416,5594,FALSE
+n444thq,16,2,Abstract,Craft,TRUE,hobbies or jobs,Set Operational,4906,5003,FALSE
+n444thq,17,4,Abstract,Profession,TRUE,professions,Superordinate,2159,4168,TRUE
+n444thq,18,3,Abstract,Emotion,TRUE,emotions,Superordinate,1599,5876,TRUE
+n444thq,19,15,Concrete,Food,TRUE,food,Superordinate,2584,4723,TRUE
+n444thq,20,6,Abstract,Relationship,TRUE,relationships,Superordinate,2595,4706,TRUE
+tintcrj,1,17,Concrete,Furniture,TRUE,Furniture,Superordinate,3871,16807,TRUE
+tintcrj,2,6,Abstract,Relationship,FALSE,Relationships,Superordinate,15445,10118,TRUE
+tintcrj,3,5,Abstract,Quantity,FALSE,Amount,Superordinate,150683,14616,TRUE
+tintcrj,4,9,Abstract,Sport,TRUE,Sports,Superordinate,26022,16966,TRUE
+tintcrj,5,4,Abstract,Profession,TRUE,Professions,Superordinate,24070,6673,TRUE
+tintcrj,6,2,Abstract,Craft,TRUE,Crafts,Superordinate,30594,12224,TRUE
+tintcrj,7,16,Concrete,Fruit,TRUE,Fruits,Superordinate,8536,8855,TRUE
+tintcrj,8,10,Abstract,Time,TRUE,time,Superordinate,5506,45893,TRUE
+tintcrj,9,8,Abstract,Shape,TRUE,shapes,Superordinate,3298,31473,TRUE
+tintcrj,10,12,Concrete,Building,FALSE,Buildings,Superordinate,26053,25972,TRUE
+tintcrj,11,3,Abstract,Emotion,TRUE,emotions,Superordinate,34542,6923,TRUE
+tintcrj,12,13,Concrete,Clothing,FALSE,Clothing,Superordinate,28042,10021,TRUE
+tintcrj,13,15,Concrete,Food,FALSE,Food,Superordinate,71550,12998,TRUE
+tintcrj,14,11,Concrete,Animal,TRUE,animals,Superordinate,4337,7809,TRUE
+tintcrj,15,19,Concrete,Tool,TRUE,tools,Superordinate,3759,19526,TRUE
+tintcrj,16,1,Abstract,Communication,TRUE,Communication,Superordinate,55048,7417,TRUE
+tintcrj,17,20,Concrete,Vehicle,TRUE,Vehicles,Superordinate,35958,8771,TRUE
+tintcrj,18,7,Abstract,Religion,TRUE,Religion,Superordinate,2825,7135,TRUE
+tintcrj,19,14,Concrete,Drink,FALSE,Beverages,Superordinate,33747,17855,TRUE
+tintcrj,20,18,Concrete,Plant,FALSE,Plants,Superordinate,21638,12821,TRUE

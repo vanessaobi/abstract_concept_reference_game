@@ -5,6 +5,8 @@ Created on Thu Feb 13 12:19:34 2025
 
 find unrelated words
 
+general_word_list_without_category.csv is needed 
+
 """
 
 from nltk.corpus import wordnet as wn

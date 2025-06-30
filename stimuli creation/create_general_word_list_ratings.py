@@ -4,6 +4,8 @@
 Created on Wed Feb  5 15:37:36 2025
 
 @author: vanessaobi
+
+creates a general word lists with ratings of the members from the categories used in Banks and Connell (2022)
 """
 
 import pandas as pd

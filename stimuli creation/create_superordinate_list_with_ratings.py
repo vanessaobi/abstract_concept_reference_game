@@ -5,7 +5,7 @@ Created on Sat Feb 15 13:15:33 2025
 
 @author: vanessaobi
 
-creates a list of ratings (control variables) for every word in the list of stimuli
+creates a list of ratings (controle variables) for the superordinates
 """
 
 import pandas as pd
@@ -16,17 +16,17 @@ import numpy as np
 df_grid = pd.read_csv('data/grid_items.csv', sep = ',', header= 0)
 df_vad = pd.read_csv('data/VAD_ratings_lexicon.csv', sep='\t', header = None, names = ["Word","Valence","Arousal","Dominance"])
 df_concr = pd.read_csv('data/concreteness_ratings_lexicon.csv', sep = ';', header= 1, usecols=['Word','Conc.M'],decimal=',')
-df_spec = pd.read_csv('data/Scores_Conc_and_Spec.csv', sep = ',', header = 0, names = ["Word","Concreteness","Spec_1","Spec_2", "Spec_3"], usecols=['Word','Spec_3'])
+df_spec = pd.read_csv('data/Scores_Conc_and_Spec.csv', sep = ',', header = 0, names = ["Word","Concreteness","Spec_1","Spec_2", "Spec_3"], usecols=['Word', "Concreteness",'Spec_3'])
 df_freq = pd.read_csv('data/frequency_list.csv', sep = ',', header = 0, usecols=['Word','Lg10CD'])
 
+df_final = df_grid[['Target concept','Domain']]
 
 
-# Melt the DataFrame/changing form of grid df
-df_final = pd.melt(df_grid, id_vars=['Target concept','Domain'], var_name="Type", value_name='Word')
+df_final = df_final.rename(columns={'Target concept':"Word" })
 df_final["Word"] = df_final["Word"].str.lower()
 
 
-##adding concreteness values
+## concreteness values
 concreteness = []
 for word in df_final["Word"]:
     try:
@@ -52,7 +52,7 @@ for word in df_final["Word"]:
 df_final['Specificity']= specificity
 
 
-##adding freq values
+## freq values
 freq = []
 for word in df_final["Word"]:
     try:
@@ -64,7 +64,7 @@ for word in df_final["Word"]:
         
 df_final['Lg10CD']= freq
 
-##adding vad values
+## vad values
 valence = []
 arousal = []
 dominance = []
@@ -88,10 +88,10 @@ df_final['Valence']= valence
 df_final['Arousal']= arousal
 df_final['Dominance']= dominance
 
-##adding length
+## length
 df_final['length']  = df_final['Word'].str.len()
 
 
-df_final = df_final.sort_values(by=['Domain','Target concept']).reset_index(drop=True)
+df_final = df_final.sort_values(by=['Domain','Word']).reset_index(drop=True)
 
-df_final.to_csv('stimuli_all_words_ratings.csv')
+df_final.to_csv('superordinates_ratings.csv')

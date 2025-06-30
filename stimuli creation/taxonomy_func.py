@@ -110,15 +110,3 @@ def analyse_taxonomy(superordinate):
   print_taxonomy(superordinate)
   find_distractors()
   
-def get_hypernym_depth(word, pos='n'):  # 'n' for noun, 'v' for verb, etc.
-    synsets = wn.synsets(word, pos=pos)  # Get synsets for the word
-    if synsets:
-        return synsets[0].min_depth()  # Get the depth of the first synset
-    return None  # Return None if no synset is found
-  
-def get_avg_hypernym_depth(word, pos='n'):
-    synsets = wn.synsets(word, pos=pos)
-    if synsets:
-        depths = [synset.min_depth() for synset in synsets]
-        return sum(depths) / len(depths)  # Compute the average depth
-    return None  

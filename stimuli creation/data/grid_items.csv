@@ -1,0 +1,21 @@
+Target concept,Domain,Target 1,Target 2,Target 3,Distractor 1,Distractor 2,Unrelated 1,Unrelated 2,Unrelated 3,Unrelated 4
+Communication,Abstract,language,conversation,debate,breathing,playing,avocado,rider,zone,sponsor
+Craft,Abstract,pottery,painting,carpentry,imagination,literacy,omelet,sister,dialect,decade
+Emotion,Abstract,anger,fear,joy,intuition,pain,whale,lamp,seminar,algorithm
+Profession,Abstract,teacher,lawyer,doctor,traveler,neighbor,shampoo,salad,century,paradox
+Quantity,Abstract,volume,pinch,heap,size,container,raisin,homework,suspect,gaze
+Relationship,Abstract,friendship,acquaintance,partnership,implication,ownership,scissors,dictionary,calculus,teatime
+Religion,Abstract,buddhism,islam,christianity,philosophy,pacifism,snowball,trumpet,hometown,rhyme
+Shape,Abstract,circle,triangle,cube,distance,smoothness,island,aunt,haven,playback
+Sport,Abstract,hockey,judo,golf,bathing,farming,drawers,squid,dialogue,weekday
+Time,Abstract,minute,day,hour,tide,eclipse,oil,cinema,feedback,royalty
+Animal,Concrete,elephant,penguin,butterfly,mushroom,lavender,campfire,certificate,donation,monarchy
+Building,Concrete,cottage,church,hospital,bridge,platform,swimming,biscuit,midnight,intention
+Clothing,Concrete,blouse,dress,sweater,blanket,necklace,rainfall,nectar,schedule,miracle
+Drink,Concrete,smoothie,coffee,milk,pasta,vinegar,giraffe,ceremony,justice,review
+Food,Concrete,sandwich,yogurt,chocolate,water,vitamin,statue,panda,accuracy,tale
+Fruit,Concrete,apple,grape,banana,cheese,bread,penny,ticket,institute,detail
+Furniture,Concrete,wardrobe,armchair,bookcase,curtain,carpet,pastry,song,mystery,summary
+Plant,Concrete,cactus,sunflower,wheat,mold,jaguar,glue,postcard,privacy,bedtime
+Tool,Concrete,hammer,screwdriver,wrench,ventilator,dollhouse,parade,cocktail,idealism,conclusion
+Vehicle,Concrete,tractor,bicycle,helicopter,delivery,teleportation,knuckle,bread,reality,rumor
